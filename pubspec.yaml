@@ -33,6 +33,9 @@ dependencies:
   path_provider: ^2.0.9
   dio: ^4.0.6
   image_picker: ^0.8.4+11
+  android_path_provider: ^0.3.0
+  permission_handler: ^9.2.0
+  device_info_plus: ^3.2.2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
